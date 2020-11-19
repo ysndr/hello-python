@@ -1,2 +1,5 @@
-def hello():
-    print("Hello world!")
+from example.library import *
+
+def run():
+    print(helloString(language))
+    doWork()

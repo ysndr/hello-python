@@ -1,4 +1,4 @@
-from hello import hello
+from hello import run
 
 def main():
-    hello()
+    run()
